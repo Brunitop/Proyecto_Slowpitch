@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Brunitop', // Usually your GitHub org/user name.
   projectName: 'Proyecto_Slowpitch', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
 
   onBrokenLinks: 'throw',
